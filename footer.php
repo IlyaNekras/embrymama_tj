@@ -36,7 +36,7 @@
             </div>
             <p class="mt1"><?php pll_e('Заполните форму') ?></p>
             <p class="mt2"><?php pll_e('Мы с удовольствием ответим на все Ваши вопросы') ?></p>
-            <form class="crm_form" data-id>
+            <form class="crm_form" data-id id="crm_form_tj">
                 <input type="hidden" name="subj_type" value="Заявка с сайта" style="display:none;">
                 <div class="input_item"><input type="text" name="fio"
                         placeholder="<?php pll_e('ФИО') ?>"><span>01</span></div>
