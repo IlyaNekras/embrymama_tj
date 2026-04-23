@@ -35,7 +35,7 @@ if (isset($_REQUEST["fio"]) && isset($_REQUEST["phone_call"])) {
 // database end
 
 // ROISTAT BEGIN
-    $comment = "Запрос на звонок; Страница отправки формы: $page; Страна обращения: Киргизия;";
+    $comment = "Запрос на звонок; Страница отправки формы: $page; Страна обращения: Таджикистан;";
     $roistatData = array(
         'roistat' => !empty($_COOKIE['roistat_visit']) ? $_COOKIE['roistat_visit'] : 'nocookie',
         'key' => 'Yjg1OTE3MWE0YjNlOGIzMGY4MjgxNWFkOWNlMDkxODY6MTY0NjAw',
