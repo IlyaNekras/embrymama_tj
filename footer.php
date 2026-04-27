@@ -312,19 +312,6 @@
 
 <?php wp_footer(); ?>
 
-<script>
-    (function(t, p) {
-        window.Marquiz ? Marquiz.add([t, p]) : document.addEventListener('marquizLoaded', function() {
-            Marquiz.add([t, p])
-        })
-    })('Widget', {
-        id: '683478e5a99a840019d1d3ca',
-        position: 'right',
-        delay: 10,
-        autoOpen: 30,
-        disableIfClosed: true
-    })
-</script>
 </body>
 
 </html>
