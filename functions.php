@@ -83,11 +83,6 @@ function get_logo_circle()
     return '/' . glob_lng() . '/wp-content/uploads/2023/08/logo_circle.svg';
 }
 
-function get_viber()
-{
-    return 'viber://pa?chatURI=79111022302';
-}
-
 function get_whatsapp()
 {
     return 'https://wa.me/79111022302';

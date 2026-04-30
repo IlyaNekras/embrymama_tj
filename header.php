@@ -209,10 +209,6 @@
                             <button class="requestCall" onclick="$('.modal_call').show()">
                                 <img src="/<?php echo glob_lng(); ?>/wp-content/uploads/2023/07/phone.svg" alt="phone">
                             </button>
-                            <a class="link" href="<?php echo get_viber(); ?>" target="_blank">
-                                Viber
-                            </a>
-                            <span>|</span>
                             <a class="link" href="<?php echo get_whatsapp(); ?>" target="_blank">
                                 Whatsapp
                             </a>
@@ -234,10 +230,6 @@
                             <button class="requestCall" onclick="$('.modal_call').show()">
                                 <img src="/<?php echo glob_lng(); ?>/wp-content/uploads/2023/07/phone.svg" alt="phone">
                             </button>
-                            <a class="link" href="<?php echo get_viber(); ?>">
-                                Viber
-                            </a>
-                            <span>|</span>
                             <a class="link" href="<?php echo get_whatsapp(); ?>">
                                 Whatsapp
                             </a>
